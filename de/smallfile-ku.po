@@ -46,6 +46,3 @@ msgstr "AMP Overview2"
 msgid "AMP for Email Specification"
 msgstr "AMP for Email Specification2"
 
-#: /views/partials/footer.j2:41
-msgid "AMP 20"
-msgstr "AMP 2"
