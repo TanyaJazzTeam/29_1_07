@@ -1,0 +1,31 @@
+---
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: mensual
+  commit-message:
+    prefix: "\U0001F4CC"
+  ignore:
+  - dependency-name: observación*
+    update-types:
+    - actualización de versión:semver-major
+  - dependency-name: obtención de nodos
+    update-types:
+    - actualización de versión:semver-major
+  - dependency-name: ava
+    update-types:
+    - actualización de versión:semver-major
+  - dependency-name: regla de pelusa unificada
+    update-types:
+    - actualización de versión:semver-major
+  - dependency-name: unista-*
+    update-types:
+    - actualización de versión:semver-major
+- package-ecosystem: npm
+  directory: "/funciones"
+  schedule:
+    interval: a diario
+  commit-message:
+    prefix: "\U0001F4CC(funciones)"
