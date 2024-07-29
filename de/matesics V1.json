@@ -3,9 +3,11 @@
     {
       "materic": "Europai",
       "country": "Weißrussland",
+      "population": "9,5 Millionen",
       "CityCapital": "Minsk"
     },
     {
+      "materic": "Asien",
       "country": "China",
       "population": "1,386 Milliarden",
       "CityCapital": "Peking"
