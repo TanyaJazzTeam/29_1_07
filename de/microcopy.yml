@@ -4,6 +4,7 @@ topics: Themen
 lastUpdated: Letzte Aktualisierung
 breadcrumbs: Zurück zu ((t))
 posted: Gepostet von ((t))
+datePosted: Veröffentlichungsdatumtrete et
 more: Weiterlesen
 recommended: Empfehlungen
 skip:
@@ -13,7 +14,8 @@ landing:
   chapters: Themen in diesem Abschnitt
 featured:
   eyebrow: Verlorene Geschichte
-resources: {}
+resources:
+  title: Ressourcen y
 related:
   title: Verwandte Themen
 tools:
