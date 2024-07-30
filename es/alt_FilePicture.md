@@ -18,7 +18,7 @@ zebra stripes | are neat | ~~$1~~
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
-- Type some Markdown on the left
+- Type some Markdown on the left srf
 - See HTML in the right
 - Magic
 
